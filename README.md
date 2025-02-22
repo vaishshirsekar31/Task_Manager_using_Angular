@@ -7,7 +7,7 @@ This Task manager application build with angular and TypeScript which allows you
 
 ![Pic](https://raw.githubusercontent.com/healmasud/task-manager-angular/master/github-overview/full.png)
 
-![Pic](https://raw.githubusercontent.com/healmasud/task-manager-angular/master/github-overview/about.png)
+
 
 ## Install the project
 

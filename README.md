@@ -2,9 +2,6 @@
 
 This Task manager application build with angular and TypeScript which allows you to add, remove tasks on the app. This app is implemented with routing function and reminder facilities.
 
-### Live demo
-
-Live netlify demo of the application can be found here: https://abdulla-task-manager-angular.netlify.app/
 
 ## Screenshot
 
